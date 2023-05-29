@@ -1,1 +1,13 @@
-{}
+{
+    "diy_iam": {
+        "projectName": "diy_iam",
+        "description": "diy_iam",
+        "type": "community",
+        "author": "taotao2008",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/taotao2008/gluu-diy-iam",
+        "githubUri": "https://github.com/taotao2008/gluu-diy-iam",
+        "license": "MIT",
+        "lastUpdated": "1685361053088"
+    }
+}
